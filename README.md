@@ -1,5 +1,7 @@
 # Internet from PC (ethernet) to Mobile - Reverse Tethering
 
+# For Linux only
+
 ### **Method 1: Easy way with `gnirehtet` (recommended)**
 
 `gnirehtet` is an open-source tool by Genymobile (makers of `scrcpy`). It uses **ADB** to tunnel internet from your PC to your phone over USB.
